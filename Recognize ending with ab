@@ -1,0 +1,7 @@
+public class Main {
+    public static void main(String[] args) {
+        String str_Sample = "Java String endsWith example";
+        //Check if ends with a particular sequence
+        System.out.println("EndsWith character 'e': " + str_Sample.endsWith("e"));
+    }
+}
